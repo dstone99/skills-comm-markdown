@@ -2,7 +2,9 @@
 I mean this should work...
 ## Or will it?
 It totally did.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<img src="https://octodex.github.com/images/yaktocat.png" width=10%>.
+
 See?
 ### Sure. It worked. But.
 but what?
@@ -26,3 +28,10 @@ var myVar = "Hello, world!";
 for i in each[x]:
   print(f'{yes}')
 ```
+## Let's go
+- [x] Yes this first item
+- [x] This 2nd (1st?) item
+- [ ] Maybe a 3rd one
+
+
+....
